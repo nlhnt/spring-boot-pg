@@ -1,0 +1,1 @@
+Add a pipeline for azure devops to utilize Maven task instead of a build layer in Dockerfile
